@@ -1,4 +1,6 @@
 annotations/*
+inception/*
 images/*
+data/*
 *.record
 .ipynb*
