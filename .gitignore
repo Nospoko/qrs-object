@@ -1,5 +1,6 @@
 annotations/*
 inception/*
+models/*
 images/*
 data/*
 *.record
